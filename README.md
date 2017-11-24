@@ -12,7 +12,7 @@ La Intermediación Laboral es, según su definición por el Real Decreto Legisla
 
 Este proyecto software ha sido creado crear y mantener software de código abierto, dirigido a organizaciones, oficinas o agencias de intermediación laboral, de índole no lucrativa o dependiente de organismos públicos.
 
-Igualmente, si eres desarrollador y deseas colaborar en este proyecto, puedes contactar a través del mail development@jonathanvivero.com
+Igualmente, si eres desarrollador y deseas colaborar en este proyecto, puedes contactar a través del mail info@intermediacionlaboral.com o development@jonathanvivero.com
 
 # Requisitos Técnicos
 
